@@ -2361,5 +2361,7 @@ if __name__ == "__main__":
     threading.Thread(target=qc_worker, daemon=True).start()
     threading.Thread(target=schedule_worker, daemon=True).start()
 
-    port = int(os.environ.get("PORT", "3000"))
+    port = int(os.environ.get("PORT", "8000"))
     app.run(host="0.0.0.0", port=port, debug=False, threaded=True)
+
+
