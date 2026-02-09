@@ -1,0 +1,5322 @@
+[
+  {
+    "tanggal": 1769904000000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1769904000000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1769990400000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770076800000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770163200000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770249600000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770336000000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770422400000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770508800000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770595200000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770681600000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770768000000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770854400000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1770940800000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771027200000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771113600000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771200000000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771286400000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771372800000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771459200000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771545600000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771632000000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771718400000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771804800000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771891200000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1771977600000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1772064000000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1772150400000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Arjan",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Karib",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Saepudin",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Safei",
+    "jabatan": "Operator Intake",
+    "shift_kode": "P13",
+    "jam_kerja": "P13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Saipul Anwar",
+    "jabatan": "Operator Intake",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Sanusi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "S13",
+    "jam_kerja": "S13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Sukardi",
+    "jabatan": "Operator Intake",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "Intake",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Nurul",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "M",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "LAB",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Rahma",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "P",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "LAB",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Rengga",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "S",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "LAB",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Sahlan",
+    "jabatan": "Analis Laboratorium",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "LAB",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Andika R",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P11",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Handi A.T",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M11",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Nasiman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M13",
+    "jam_kerja": "M13",
+    "lokasi": "WTP1",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Surakhman",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "M12",
+    "jam_kerja": "16.00 - 24.00",
+    "lokasi": "WTP1",
+    "jam_mulai": "16:00",
+    "jam_selesai": "24:00"
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Ahmad Yani",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Roji",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "OFF",
+    "jam_kerja": "LIBUR",
+    "lokasi": "WTP3",
+    "jam_mulai": null,
+    "jam_selesai": null
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Sigit Wisnu W",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "S12",
+    "jam_kerja": "08.00 - 16.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "08:00",
+    "jam_selesai": "16:00"
+  },
+  {
+    "tanggal": 1772236800000,
+    "nama": "Wahyudin",
+    "jabatan": "Operator Produksi",
+    "shift_kode": "P12",
+    "jam_kerja": "00.00 - 08.00",
+    "lokasi": "WTP3",
+    "jam_mulai": "00:00",
+    "jam_selesai": "08:00"
+  }
+]
